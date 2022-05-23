@@ -1,0 +1,92 @@
+Sun May 22 12:15:27 2022 #33266	REDUCE cov: 52 ft: 130 corp: 67/1450b lim: 142 exec/s: 0 rss: 31Mb L: 8/128 MS: 4 CMP-ShuffleBytes-CopyPart-EraseBytes- DE: "\001\000"-
+
+Sun May 22 12:45:27 2022 #185918453	REDUCE cov: 55 ft: 156 corp: 79/3433b lim: 4096 exec/s: 103923 rss: 482Mb L: 529/529 MS: 1 EraseBytes-
+
+Sun May 22 13:15:27 2022 #353910852	REDUCE cov: 55 ft: 156 corp: 79/3420b lim: 4096 exec/s: 103482 rss: 482Mb L: 518/518 MS: 3 CopyPart-PersAutoDict-EraseBytes- DE: "=\000"-
+
+Sun May 22 13:45:27 2022 #536870912	pulse  cov: 55 ft: 156 corp: 79/3419b lim: 4096 exec/s: 103623 rss: 483Mb
+
+Sun May 22 14:15:27 2022 #682063949	REDUCE cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 103672 rss: 483Mb L: 516/516 MS: 1 EraseBytes-
+
+Sun May 22 14:45:27 2022 #682063949	REDUCE cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 103672 rss: 483Mb L: 516/516 MS: 1 EraseBytes-
+
+Sun May 22 15:15:27 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 15:45:28 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 16:15:28 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 16:45:28 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 17:15:28 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 17:45:28 2022 #1073741824	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 104115 rss: 484Mb
+
+Sun May 22 18:15:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 18:45:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 19:15:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 19:45:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 20:15:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 20:45:28 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 21:15:29 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 21:45:29 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 22:15:29 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 22:45:29 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 23:15:29 2022 #2147483648	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 105823 rss: 485Mb
+
+Sun May 22 23:45:29 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 00:15:29 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 00:45:29 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 01:15:29 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 01:45:29 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 02:15:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 02:45:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 03:15:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 03:45:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 04:15:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 04:45:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 05:15:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 05:45:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 06:15:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 06:45:30 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 07:15:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 07:45:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 08:15:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 08:45:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 09:15:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 09:45:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 10:15:31 2022 #4294967296	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106495 rss: 485Mb
+
+Mon May 23 10:45:31 2022 #8589934592	pulse  cov: 55 ft: 156 corp: 79/3418b lim: 4096 exec/s: 106095 rss: 485Mb
+
