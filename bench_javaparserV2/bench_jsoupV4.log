@@ -1,0 +1,156 @@
+Thu Jun  2 10:30:06 2022 #4700379	REDUCE cov: 3244 ft: 21272 corp: 4503/1157Kb lim: 2171 exec/s: 2615 rss: 1017Mb L: 1577/2091 MS: 3 ChangeASCIIInt-EraseBytes-CopyPart-
+
+Thu Jun  2 11:00:06 2022 #7185719	REDUCE cov: 3299 ft: 22623 corp: 4971/1672Kb lim: 3843 exec/s: 1997 rss: 1048Mb L: 8/3742 MS: 1 EraseBytes-
+
+Thu Jun  2 11:30:06 2022 #9137797	NEW    cov: 3316 ft: 23008 corp: 5187/1927Kb lim: 4096 exec/s: 1693 rss: 1086Mb L: 1937/4093 MS: 4 ChangeASCIIInt-ShuffleBytes-ChangeBinInt-CopyPart-
+
+Thu Jun  2 12:00:06 2022 #10976393	REDUCE cov: 3319 ft: 23183 corp: 5257/1958Kb lim: 4096 exec/s: 1525 rss: 1124Mb L: 12/4067 MS: 1 EraseBytes-
+
+Thu Jun  2 12:30:06 2022 #12894866	REDUCE cov: 3327 ft: 23301 corp: 5327/1994Kb lim: 4096 exec/s: 1433 rss: 1166Mb L: 167/4081 MS: 1 EraseBytes-
+
+Thu Jun  2 13:00:07 2022 #14890420	REDUCE cov: 3330 ft: 23336 corp: 5360/1980Kb lim: 4096 exec/s: 1379 rss: 1210Mb L: 163/4037 MS: 1 EraseBytes-
+
+Thu Jun  2 13:30:07 2022 #16899915	REDUCE cov: 3330 ft: 23357 corp: 5370/1951Kb lim: 4096 exec/s: 1341 rss: 1253Mb L: 486/4092 MS: 1 EraseBytes-
+
+Thu Jun  2 14:00:07 2022 #18928760	REDUCE cov: 3331 ft: 23384 corp: 5387/1949Kb lim: 4096 exec/s: 1314 rss: 1296Mb L: 2147/4092 MS: 5 CMP-ChangeByte-ChangeBit-ChangeBit-EraseBytes- DE: "\xff\xff\xff\xff\xff\xff\xff\xff"-
+
+Thu Jun  2 14:30:07 2022 #21019422	REDUCE cov: 3332 ft: 23423 corp: 5404/1948Kb lim: 4096 exec/s: 1297 rss: 1348Mb L: 436/4073 MS: 3 InsertByte-CopyPart-EraseBytes-
+
+Thu Jun  2 15:00:07 2022 #23150124	REDUCE cov: 3333 ft: 23495 corp: 5441/1959Kb lim: 4096 exec/s: 1286 rss: 1397Mb L: 162/4073 MS: 1 EraseBytes-
+
+Thu Jun  2 15:30:07 2022 #25330808	REDUCE cov: 3334 ft: 23537 corp: 5465/1971Kb lim: 4096 exec/s: 1279 rss: 1449Mb L: 107/4073 MS: 1 EraseBytes-
+
+Thu Jun  2 16:00:07 2022 #27506461	REDUCE cov: 3334 ft: 23552 corp: 5475/1964Kb lim: 4096 exec/s: 1273 rss: 1502Mb L: 174/4073 MS: 1 EraseBytes-
+
+Thu Jun  2 16:30:08 2022 #29732399	REDUCE cov: 3336 ft: 23580 corp: 5498/1947Kb lim: 4096 exec/s: 1270 rss: 1548Mb L: 288/4068 MS: 1 EraseBytes-
+
+Thu Jun  2 17:00:08 2022 #31961426	REDUCE cov: 3336 ft: 23610 corp: 5511/1934Kb lim: 4096 exec/s: 1268 rss: 1594Mb L: 490/4068 MS: 2 ChangeBit-PersAutoDict- DE: "orb"-
+
+Thu Jun  2 17:30:08 2022 #34223252	REDUCE cov: 3338 ft: 23629 corp: 5521/1926Kb lim: 4096 exec/s: 1267 rss: 1649Mb L: 633/4068 MS: 1 EraseBytes-
+
+Thu Jun  2 18:00:08 2022 #36488334	REDUCE cov: 3338 ft: 23650 corp: 5530/1926Kb lim: 4096 exec/s: 1267 rss: 1708Mb L: 3033/4068 MS: 1 PersAutoDict- DE: "s\xef\xbf\xbd"-
+
+Thu Jun  2 18:30:08 2022 #38764430	REDUCE cov: 3339 ft: 23689 corp: 5543/1924Kb lim: 4096 exec/s: 1266 rss: 1762Mb L: 20/4068 MS: 1 EraseBytes-
+
+Thu Jun  2 19:00:08 2022 #40951153	REDUCE cov: 3340 ft: 23729 corp: 5565/1938Kb lim: 4096 exec/s: 1263 rss: 1762Mb L: 22/4065 MS: 1 EraseBytes-
+
+Thu Jun  2 19:30:08 2022 #43169116	REDUCE cov: 3340 ft: 23739 corp: 5570/1929Kb lim: 4096 exec/s: 1262 rss: 1762Mb L: 14/4065 MS: 1 EraseBytes-
+
+Thu Jun  2 20:00:09 2022 #45409489	REDUCE cov: 3342 ft: 23772 corp: 5584/1922Kb lim: 4096 exec/s: 1261 rss: 1762Mb L: 800/4065 MS: 1 EraseBytes-
+
+Thu Jun  2 20:30:09 2022 #47649298	REDUCE cov: 3344 ft: 23792 corp: 5600/1909Kb lim: 4096 exec/s: 1260 rss: 1762Mb L: 1128/4047 MS: 4 ShuffleBytes-ChangeASCIIInt-CopyPart-EraseBytes-
+
+Thu Jun  2 21:00:09 2022 #49892856	REDUCE cov: 3344 ft: 23794 corp: 5602/1895Kb lim: 4096 exec/s: 1259 rss: 1762Mb L: 178/4047 MS: 4 InsertByte-InsertByte-EraseBytes-PersAutoDict- DE: "\x00\x00\x035"-
+
+Thu Jun  2 21:30:09 2022 #52175368	REDUCE cov: 3345 ft: 23810 corp: 5612/1886Kb lim: 4096 exec/s: 1260 rss: 1762Mb L: 50/4039 MS: 1 EraseBytes-
+
+Thu Jun  2 22:00:09 2022 #54537355	REDUCE cov: 3345 ft: 23879 corp: 5627/1884Kb lim: 4096 exec/s: 1262 rss: 1762Mb L: 2031/4039 MS: 4 ChangeBit-EraseBytes-ChangeASCIIInt-CopyPart-
+
+Thu Jun  2 22:30:09 2022 #57013286	REDUCE cov: 3345 ft: 23888 corp: 5629/1871Kb lim: 4096 exec/s: 1266 rss: 1762Mb L: 3693/4039 MS: 1 PersAutoDict- DE: "n+n+"-
+
+Thu Jun  2 23:00:09 2022 #59411016	REDUCE cov: 3346 ft: 23897 corp: 5635/1871Kb lim: 4096 exec/s: 1269 rss: 1762Mb L: 316/4039 MS: 2 EraseBytes-InsertByte-
+
+Thu Jun  2 23:30:10 2022 #61783726	REDUCE cov: 3346 ft: 23900 corp: 5636/1858Kb lim: 4096 exec/s: 1271 rss: 1762Mb L: 97/4039 MS: 1 EraseBytes-
+
+Fri Jun  3 00:00:10 2022 #64144553	REDUCE cov: 3348 ft: 23924 corp: 5648/1861Kb lim: 4096 exec/s: 1272 rss: 1762Mb L: 146/4032 MS: 5 InsertByte-ShuffleBytes-CopyPart-ShuffleBytes-EraseBytes-
+
+Fri Jun  3 00:30:10 2022 #66500889	REDUCE cov: 3348 ft: 23937 corp: 5652/1854Kb lim: 4096 exec/s: 1273 rss: 1762Mb L: 68/4032 MS: 1 EraseBytes-
+
+Fri Jun  3 01:00:10 2022 #68789785	REDUCE cov: 3348 ft: 23969 corp: 5659/1859Kb lim: 4096 exec/s: 1273 rss: 1762Mb L: 91/4031 MS: 1 EraseBytes-
+
+Fri Jun  3 01:30:10 2022 #71081222	REDUCE cov: 3358 ft: 24017 corp: 5676/1864Kb lim: 4096 exec/s: 1273 rss: 1762Mb L: 315/4031 MS: 5 ChangeByte-CMP-ChangeByte-ShuffleBytes-EraseBytes- DE: "\\E]\\E]]]]]]"-
+
+Fri Jun  3 02:00:10 2022 #73485128	REDUCE cov: 3359 ft: 24025 corp: 5682/1858Kb lim: 4096 exec/s: 1275 rss: 1762Mb L: 1292/4029 MS: 1 PersAutoDict- DE: "jbk+"-
+
+Fri Jun  3 02:30:11 2022 #75909522	REDUCE cov: 3359 ft: 24036 corp: 5688/1849Kb lim: 4096 exec/s: 1277 rss: 1762Mb L: 74/4028 MS: 1 EraseBytes-
+
+Fri Jun  3 03:00:11 2022 #78285296	REDUCE cov: 3361 ft: 24054 corp: 5705/1848Kb lim: 4096 exec/s: 1279 rss: 1762Mb L: 576/4026 MS: 1 EraseBytes-
+
+Fri Jun  3 03:30:11 2022 #80693362	REDUCE cov: 3361 ft: 24055 corp: 5706/1838Kb lim: 4096 exec/s: 1280 rss: 1762Mb L: 1395/4024 MS: 2 ChangeBinInt-PersAutoDict- DE: "ele"-
+
+Fri Jun  3 04:00:11 2022 #83064543	REDUCE cov: 3361 ft: 24059 corp: 5708/1831Kb lim: 4096 exec/s: 1281 rss: 1762Mb L: 47/4024 MS: 1 EraseBytes-
+
+Fri Jun  3 04:30:11 2022 #85303840	REDUCE cov: 3361 ft: 24070 corp: 5712/1829Kb lim: 4096 exec/s: 1280 rss: 1762Mb L: 791/4024 MS: 1 PersAutoDict- DE: "sound"-
+
+Fri Jun  3 05:00:11 2022 #87472912	REDUCE cov: 3366 ft: 24101 corp: 5740/1851Kb lim: 4096 exec/s: 1278 rss: 1762Mb L: 2290/4024 MS: 2 ChangeByte-PersAutoDict- DE: "ble"-
+
+Fri Jun  3 05:30:11 2022 #89552944	REDUCE cov: 3368 ft: 24129 corp: 5768/1848Kb lim: 4096 exec/s: 1275 rss: 1762Mb L: 2885/4024 MS: 1 PersAutoDict- DE: "te!"-
+
+Fri Jun  3 06:00:12 2022 #91835299	REDUCE cov: 3368 ft: 24144 corp: 5774/1846Kb lim: 4096 exec/s: 1275 rss: 1762Mb L: 513/4006 MS: 1 EraseBytes-
+
+Fri Jun  3 06:30:12 2022 #94035977	REDUCE cov: 3368 ft: 24158 corp: 5780/1845Kb lim: 4096 exec/s: 1274 rss: 1762Mb L: 1411/4006 MS: 1 PersAutoDict- DE: "l\xef\xbc\x80"-
+
+Fri Jun  3 07:00:12 2022 #96251893	REDUCE cov: 3368 ft: 24165 corp: 5782/1836Kb lim: 4096 exec/s: 1273 rss: 1762Mb L: 134/4006 MS: 4 PersAutoDict-ChangeByte-ChangeBit-EraseBytes- DE: "t$"-
+
+Fri Jun  3 07:30:12 2022 #98120395	REDUCE cov: 3368 ft: 24197 corp: 5792/1861Kb lim: 4096 exec/s: 1267 rss: 1762Mb L: 876/4006 MS: 2 InsertByte-PersAutoDict- DE: "\xef\xbf\xbd<"-
+
+Fri Jun  3 08:00:12 2022 #99682120	REDUCE cov: 3368 ft: 24211 corp: 5794/1860Kb lim: 4096 exec/s: 1258 rss: 1762Mb L: 127/4003 MS: 1 EraseBytes-
+
+Fri Jun  3 08:30:13 2022 #101260006	REDUCE cov: 3369 ft: 24217 corp: 5800/1857Kb lim: 4096 exec/s: 1250 rss: 1762Mb L: 3502/4003 MS: 2 CopyPart-EraseBytes-
+
+Fri Jun  3 09:00:13 2022 #102965570	REDUCE cov: 3369 ft: 24219 corp: 5802/1852Kb lim: 4096 exec/s: 1243 rss: 1762Mb L: 45/4003 MS: 1 EraseBytes-
+
+Fri Jun  3 09:30:13 2022 #104721533	REDUCE cov: 3369 ft: 24219 corp: 5802/1845Kb lim: 4096 exec/s: 1237 rss: 1762Mb L: 963/4000 MS: 1 PersAutoDict- DE: "pb"-
+
+Fri Jun  3 10:00:13 2022 #106564129	REDUCE cov: 3369 ft: 24231 corp: 5804/1842Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 1753/4000 MS: 1 PersAutoDict- DE: "b\xdf\x83"-
+
+Fri Jun  3 10:30:13 2022 #108477317	REDUCE cov: 3370 ft: 24232 corp: 5805/1833Kb lim: 4096 exec/s: 1229 rss: 1762Mb L: 1458/4000 MS: 1 PersAutoDict- DE: "aod"-
+
+Fri Jun  3 11:00:13 2022 #110657109	REDUCE cov: 3371 ft: 24271 corp: 5829/1848Kb lim: 4096 exec/s: 1229 rss: 1762Mb L: 284/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 11:30:14 2022 #113062241	REDUCE cov: 3371 ft: 24272 corp: 5830/1839Kb lim: 4096 exec/s: 1231 rss: 1762Mb L: 2642/3996 MS: 2 CMP-PersAutoDict- DE: "ps\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd?0"-"ff6ee"-
+
+Fri Jun  3 12:00:14 2022 #115474201	REDUCE cov: 3371 ft: 24275 corp: 5832/1835Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 2363/3996 MS: 1 PersAutoDict- DE: "igm"-
+
+Fri Jun  3 12:30:14 2022 #117850267	REDUCE cov: 3371 ft: 24278 corp: 5834/1830Kb lim: 4096 exec/s: 1235 rss: 1762Mb L: 143/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 13:00:14 2022 #120040752	REDUCE cov: 3371 ft: 24283 corp: 5837/1833Kb lim: 4096 exec/s: 1234 rss: 1762Mb L: 2321/3996 MS: 3 CMP-ShuffleBytes-PersAutoDict- DE: "\xff\x04"-"b\xef\x80\xae"-
+
+Fri Jun  3 13:30:14 2022 #122200173	REDUCE cov: 3372 ft: 24292 corp: 5846/1836Kb lim: 4096 exec/s: 1234 rss: 1762Mb L: 1150/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 14:00:14 2022 #124377941	REDUCE cov: 3372 ft: 24295 corp: 5847/1825Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 2853/3996 MS: 1 PersAutoDict- DE: "idy"-
+
+Fri Jun  3 14:30:14 2022 #126582210	REDUCE cov: 3372 ft: 24298 corp: 5848/1819Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 125/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 15:00:15 2022 #128740620	REDUCE cov: 3372 ft: 24305 corp: 5855/1817Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 340/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 15:30:15 2022 #130953498	REDUCE cov: 3372 ft: 24305 corp: 5855/1810Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 139/3996 MS: 2 InsertByte-EraseBytes-
+
+Fri Jun  3 16:00:15 2022 #133192225	REDUCE cov: 3372 ft: 24306 corp: 5856/1803Kb lim: 4096 exec/s: 1233 rss: 1762Mb L: 1989/3996 MS: 1 PersAutoDict- DE: "bm"-
+
+Fri Jun  3 16:30:15 2022 #135377946	REDUCE cov: 3372 ft: 24308 corp: 5858/1801Kb lim: 4096 exec/s: 1232 rss: 1762Mb L: 2050/4040 MS: 2 CopyPart-CMP- DE: "col"-
+
+Fri Jun  3 17:00:15 2022 #137480993	REDUCE cov: 3372 ft: 24310 corp: 5860/1800Kb lim: 4096 exec/s: 1231 rss: 1762Mb L: 167/4027 MS: 1 EraseBytes-
+
+Fri Jun  3 17:30:16 2022 #139569568	REDUCE cov: 3372 ft: 24319 corp: 5863/1801Kb lim: 4096 exec/s: 1230 rss: 1762Mb L: 1955/4019 MS: 2 ChangeASCIIInt-EraseBytes-
+
+Fri Jun  3 18:00:16 2022 #141667519	REDUCE cov: 3372 ft: 24319 corp: 5863/1793Kb lim: 4096 exec/s: 1229 rss: 1762Mb L: 1088/4011 MS: 2 ChangeASCIIInt-PersAutoDict- DE: "Ad"-
+
+Fri Jun  3 18:30:16 2022 #143767263	REDUCE cov: 3372 ft: 24319 corp: 5863/1785Kb lim: 4096 exec/s: 1228 rss: 1762Mb L: 19/4007 MS: 1 EraseBytes-
+
+Fri Jun  3 19:00:16 2022 #145884544	REDUCE cov: 3372 ft: 24333 corp: 5869/1797Kb lim: 4096 exec/s: 1227 rss: 1762Mb L: 29/3996 MS: 1 EraseBytes-
+
+Fri Jun  3 19:30:16 2022 #147908984	REDUCE cov: 3372 ft: 24339 corp: 5872/1798Kb lim: 4096 exec/s: 1226 rss: 1762Mb L: 69/3974 MS: 1 EraseBytes-
+
+Fri Jun  3 20:00:17 2022 #149902000	REDUCE cov: 3372 ft: 24345 corp: 5874/1795Kb lim: 4096 exec/s: 1224 rss: 1762Mb L: 811/3959 MS: 1 PersAutoDict- DE: "n\\b"-
+
+Fri Jun  3 20:30:17 2022 #151783330	REDUCE cov: 3372 ft: 24365 corp: 5877/1794Kb lim: 4096 exec/s: 1222 rss: 1762Mb L: 3309/3952 MS: 2 CMP-EraseBytes- DE: "select"-
+
+Fri Jun  3 21:00:17 2022 #153755771	REDUCE cov: 3372 ft: 24372 corp: 5880/1792Kb lim: 4096 exec/s: 1220 rss: 1762Mb L: 23/3951 MS: 1 EraseBytes-
+
+Fri Jun  3 21:30:17 2022 #155546740	REDUCE cov: 3372 ft: 24377 corp: 5883/1798Kb lim: 4096 exec/s: 1217 rss: 1762Mb L: 353/3951 MS: 1 CrossOver-
+
+Fri Jun  3 22:00:17 2022 #156804918	REDUCE cov: 3372 ft: 24386 corp: 5886/1798Kb lim: 4096 exec/s: 1209 rss: 1762Mb L: 663/3951 MS: 1 EraseBytes-
+
+Fri Jun  3 22:30:17 2022 #158110477	REDUCE cov: 3372 ft: 24386 corp: 5886/1794Kb lim: 4096 exec/s: 1203 rss: 1762Mb L: 181/3951 MS: 2 CopyPart-EraseBytes-
+
+Fri Jun  3 23:00:18 2022 #159454792	REDUCE cov: 3372 ft: 24389 corp: 5887/1791Kb lim: 4096 exec/s: 1197 rss: 1762Mb L: 2814/3951 MS: 1 PersAutoDict- DE: "ii"-
+
+Fri Jun  3 23:30:18 2022 #160908365	REDUCE cov: 3372 ft: 24389 corp: 5887/1786Kb lim: 4096 exec/s: 1191 rss: 1762Mb L: 671/3951 MS: 5 ChangeBinInt-EraseBytes-EraseBytes-EraseBytes-CopyPart-
+
+Sat Jun  4 00:00:18 2022 #162383161	REDUCE cov: 3372 ft: 24390 corp: 5888/1784Kb lim: 4096 exec/s: 1186 rss: 1762Mb L: 36/3951 MS: 1 EraseBytes-
+
+Sat Jun  4 00:30:18 2022 #163868180	REDUCE cov: 3373 ft: 24397 corp: 5895/1787Kb lim: 4096 exec/s: 1182 rss: 1762Mb L: 176/3951 MS: 4 ChangeBit-CMP-ChangeBinInt-EraseBytes- DE: "\x01a"-
+
+Sat Jun  4 01:00:19 2022 #165689401	REDUCE cov: 3373 ft: 24398 corp: 5896/1780Kb lim: 4096 exec/s: 1180 rss: 1762Mb L: 2483/3951 MS: 3 InsertByte-CMP-EraseBytes- DE: "col"-
+
