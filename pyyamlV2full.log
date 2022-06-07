@@ -1,0 +1,52 @@
+INFO: Instrumenting yaml
+INFO: Instrumenting yaml.error
+INFO: Instrumenting yaml.tokens
+INFO: Instrumenting yaml.events
+INFO: Instrumenting yaml.nodes
+INFO: Instrumenting yaml.loader
+INFO: Instrumenting yaml.reader
+INFO: Instrumenting yaml.scanner
+INFO: Instrumenting yaml.parser
+INFO: Instrumenting yaml.composer
+INFO: Instrumenting yaml.constructor
+WARNING: skip the package datetime
+WARNING: skip the package base64
+WARNING: skip the package struct
+INFO: Instrumenting yaml.resolver
+INFO: Instrumenting yaml.dumper
+INFO: Instrumenting yaml.emitter
+INFO: Instrumenting yaml.serializer
+INFO: Instrumenting yaml.representer
+INFO: Instrumenting yaml.cyaml
+INFO: Using built-in libfuzzer
+WARNING: Failed to find function "__sanitizer_acquire_crash_state".
+WARNING: Failed to find function "__sanitizer_print_stack_trace".
+WARNING: Failed to find function "__sanitizer_set_death_callback".
+INFO: Seed: 1290268200
+INFO:      969 files found in seeds_corpus
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 4096 bytes
+INFO: seed corpus: files: 969 min: 1b max: 1298b total: 61642b rss: 35Mb
+#970	INITED cov: 826 ft: 4817 corp: 793/51Kb exec/s: 242 rss: 37Mb
+#1024	pulse  cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 256 rss: 37Mb
+#1131	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 282 rss: 37Mb L: 196/1298 MS: 1 EraseBytes-
+#1257	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 314 rss: 37Mb L: 36/1298 MS: 1 EraseBytes-
+#1418	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 283 rss: 37Mb L: 295/1298 MS: 1 EraseBytes-
+#1450	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 290 rss: 37Mb L: 4/1298 MS: 2 ChangeByte-EraseBytes-
+#1721	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 344 rss: 37Mb L: 12/1298 MS: 1 EraseBytes-
+#1887	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 377 rss: 37Mb L: 5/1298 MS: 1 EraseBytes-
+#2048	pulse  cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 341 rss: 37Mb
+#2118	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 353 rss: 37Mb L: 6/1298 MS: 1 EraseBytes-
+#2449	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 408 rss: 37Mb L: 294/1298 MS: 1 EraseBytes-
+#2865	REDUCE cov: 826 ft: 4817 corp: 793/51Kb lim: 1308 exec/s: 409 rss: 37Mb L: 4/1298 MS: 1 EraseBytes-
+#2901	NEW    cov: 826 ft: 4821 corp: 794/51Kb lim: 1308 exec/s: 414 rss: 37Mb L: 137/1298 MS: 1 InsertRepeatedBytes-
+#3017	REDUCE cov: 826 ft: 4821 corp: 794/51Kb lim: 1308 exec/s: 377 rss: 37Mb L: 23/1298 MS: 1 EraseBytes-
+#3183	REDUCE cov: 826 ft: 4821 corp: 794/51Kb lim: 1308 exec/s: 397 rss: 37Mb L: 41/1298 MS: 1 EraseBytes-
+#3360	REDUCE cov: 826 ft: 4821 corp: 794/51Kb lim: 1308 exec/s: 373 rss: 37Mb L: 234/1298 MS: 2 InsertByte-EraseBytes-
+#3626	REDUCE cov: 826 ft: 4821 corp: 794/51Kb lim: 1308 exec/s: 362 rss: 37Mb L: 42/1298 MS: 1 EraseBytes-
+#3728	NEW    cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 372 rss: 37Mb L: 68/1298 MS: 2 ChangeBit-ChangeBit-
+#4096	pulse  cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 409 rss: 37Mb
+#4434	REDUCE cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 403 rss: 37Mb L: 27/1298 MS: 1 EraseBytes-
+#5271	REDUCE cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 376 rss: 37Mb L: 8/1298 MS: 2 ShuffleBytes-EraseBytes-
+#6167	REDUCE cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 385 rss: 37Mb L: 22/1298 MS: 1 EraseBytes-
+#6368	REDUCE cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 374 rss: 37Mb L: 130/1298 MS: 1 EraseBytes-
+#6504	REDUCE cov: 826 ft: 4823 corp: 795/51Kb lim: 1308 exec/s: 382 rss: 37Mb L: 39/1298 MS: 1 EraseBytes-
